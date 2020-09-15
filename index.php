@@ -79,7 +79,7 @@
 
           </div>
           <div class="footer-bottom">
-            &copy; 2020 | BY- itsrai, z0re, harRy, r@ut
+            &copy; 2020 | BY- itsrai, zore, harRy, r@ut
             <h1> hello worlds</h1>
 
           </div>
